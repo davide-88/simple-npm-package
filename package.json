@@ -1,5 +1,5 @@
 {
-  "name": "simple-npm-package",
+  "name": "@dvd-88/simple-npm-package",
   "version": "1.0.0",
   "description": "A simple npm package",
   "main": "index.js",
